@@ -26,7 +26,7 @@ Here is the list of commonly used Linux commands:
 |Move a file or a directory form one location to another location|mv <file name> <directory path>  
 |rename files|rename 's/old-name/new-name/' files
 |Save file content|CTRL+D
-2+^s| Linux Directory Commands
+2+^s| Linux File Content Commands
 |Displays the first 10 lines of a file|head <file name>  
 |Displays the last ten lines of the file content|tail <file name>
 |Displays the last ten lines of the file content|tail <file name> 
