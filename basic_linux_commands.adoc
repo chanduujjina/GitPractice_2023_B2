@@ -10,9 +10,9 @@ Here is the list of commonly used Linux commands:
 | Purpose| Command
 2+^s| Linux Directory Commands
 
-| To view list of files inside folder| ls
-| To view list of hidden files inside folder| ls -a
-| To Display the location of the current working directory|pwd
+|To view list of files inside folder| ls
+|To view list of hidden files inside folder| ls -a
+|To Display the location of the current working directory|pwd
 |Create a new directory under any directory|mkdir <directory name>  
 |Change the current directory|cd <directory name> 
 |Delete a directory|rmdir <directory name>
@@ -23,8 +23,9 @@ Here is the list of commonly used Linux commands:
 |Create and add content to the file|cat > <file name>
 |Remove a file|rm <file name>
 |To copy in the same directory/diffrent directory|cp <existing file name> <new file name>  
-|move a file or a directory form one location to another location|mv <file name> <directory path>  
+|Move a file or a directory form one location to another location|mv <file name> <directory path>  
 |rename files|rename 's/old-name/new-name/' files
+|Save file content|CTRL+D
 2+^s| Linux Directory Commands
 |Displays the first 10 lines of a file|head <file name>  
 |Displays the last ten lines of the file content|tail <file name>
