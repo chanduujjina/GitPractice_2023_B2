@@ -8,6 +8,10 @@
    
  <h4>Install git in Linux</h4>
   <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git/">Click here for Git installtion in Linux</a>
+  
+ <h4>Linux Commands</h4>
+   <a href="basic_linux_commands.adoc/">Click here for basic Linux commands</a>
+ 
 
   
 
