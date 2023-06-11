@@ -56,6 +56,8 @@
   <li>Bazaar or Darcs</li>
 </ul>
 
+  <a href="Git_installtion.md">Click here for Git Installtion details.</a>  </br>
+
 
  
  
