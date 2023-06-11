@@ -49,6 +49,12 @@
  </ul>
 
 <img src="git-version-control-system-2.png"  width="300" height="400">
+<h3>Below tools are Distrubted vesion control systems</h3>
+<ul>
+  <li>Git</li>
+  <li>Mercurial</li>
+  <li>Bazaar or Darcs</li>
+</ul>
  
  
 
