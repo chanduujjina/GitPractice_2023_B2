@@ -60,6 +60,9 @@
   
   <h4>Linux Commands</h4>
  <a href="basic_linux_commands.adoc/">Click here for basic Linux commands</a>
+ 
+   <h4>Git Basics</h4>
+ <a href="Git_notes.md/">Click here for git basic commands</a>
 
 
  
