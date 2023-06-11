@@ -23,5 +23,11 @@
 </ul>
 
 <h3>Localized Version Control Systems</h3>
+<ul>
+  <li>The localized version control method is a common approach because of its simplicity. </li>
+  <li>But this approach leads to a higher chance of error. In this approach, you may forget which directory you're in and accidentally write to the wrong file or copy over files you don't want to.</li>
+  <li>The major drawback of Local VCS is that it has a single point of failure.</li>
+</ul>
 <img src="git-version-control-system.png"  width="500" height="600">
+
  
