@@ -30,4 +30,19 @@
 </ul>
 <img src="git-version-control-system.png"  width="500" height="600">
 
+<h3>Centralized Version Control System</h3>
+<li>These systems have a single server that contains the versioned files, and some clients to check out files from a central place.</li>
+<h3>Centralized version control systems have many benefits, especially over local VCSs.</h3>
+<li>Everyone on the system has information about the work what others are doing on the project.</li>
+<li>Administrators have control over other developers.</li>
+<li>It is easier to deal with a centralized version control system than a localized version control system.</li>
+<li>A local version control system facilitates with a server software component which stores and manages the different versions of the files..</li>
+</ul>
+<h3>Drawback</h3>
+<h4>Single point of failure.</h4>
+<img src="git-version-control-system.png"  width="500" height="600">
+
+  
+  
+
  
