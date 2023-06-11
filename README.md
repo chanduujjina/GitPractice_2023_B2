@@ -40,7 +40,7 @@
 </ul>
 <h3>Drawback</h3>
 <h4>Single point of failure.</h4>
-<img src="git-version-control-system.png"  width="300" height="400">
+<img src="git-version-control-system-1.png"  width="300" height="400">
 <h3>Distrubuted Vesrion Control</h3>
 <ul>
   <li>Every user has a local copy of a repository.</li>
