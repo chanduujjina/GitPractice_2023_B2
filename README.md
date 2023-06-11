@@ -41,6 +41,13 @@
 <h3>Drawback</h3>
 <h4>Single point of failure.</h4>
 <img src="git-version-control-system.png"  width="300" height="400">
+<h3>Distrubuted Vesrion Control</h3>
+<ul>
+  <li>Every user has a local copy of a repository.</li>
+  <li>So, the clients don't just check out the latest snapshot of the files even they can fully mirror the repository. </li>
+  <li>The local repository contains all the files and metadata present in the main repository. </li>
+ </ul>
+ 
 
   
   
