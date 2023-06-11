@@ -47,6 +47,9 @@
   <li>So, the clients don't just check out the latest snapshot of the files even they can fully mirror the repository. </li>
   <li>The local repository contains all the files and metadata present in the main repository. </li>
  </ul>
+
+<img src="git-version-control-system-2.png"  width="300" height="400">
+ 
  
 
   
