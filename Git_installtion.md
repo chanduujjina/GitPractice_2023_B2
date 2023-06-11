@@ -3,7 +3,7 @@
  <a href="https://git-scm.com/download/win/">Click here for Git installtion in windows</a>
  
  <h4>Install git in Macos</h4>
-  <a href="https://git-scm.com/download/win/">Click here for Git installtion in Macos</a>
+  <a href="https://git-scm.com/download/mac/">Click here for Git installtion in Macos</a>
   
    
  <h4>Install git in Linux</h4>
