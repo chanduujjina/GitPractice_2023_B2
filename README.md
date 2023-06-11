@@ -57,6 +57,9 @@
 </ul>
 
   <a href="Git_installtion.md">Click here for Git Installtion details.</a>  </br>
+  
+  <h4>Linux Commands</h4>
+ <a href="basic_linux_commands.adoc/">Click here for basic Linux commands</a>
 
 
  
