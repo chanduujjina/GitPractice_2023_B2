@@ -23,5 +23,5 @@
 </ul>
 
 <h3>Localized Version Control Systems</h3>
-<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="git-version-control-system.png"  width="500" height="600">
  
