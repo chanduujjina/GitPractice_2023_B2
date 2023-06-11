@@ -40,7 +40,7 @@
 </ul>
 <h3>Drawback</h3>
 <h4>Single point of failure.</h4>
-<img src="git-version-control-system.png"  width="400" height="500">
+<img src="git-version-control-system.png"  width="300" height="400">
 
   
   
