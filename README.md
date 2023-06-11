@@ -28,7 +28,7 @@
   <li>But this approach leads to a higher chance of error. In this approach, you may forget which directory you're in and accidentally write to the wrong file or copy over files you don't want to.</li>
   <li>The major drawback of Local VCS is that it has a single point of failure.</li>
 </ul>
-<img src="git-version-control-system.png"  width="500" height="600">
+<img src="git-version-control-system.png"  width="400" height="500">
 
 <h3>Centralized Version Control System</h3>
 <li>These systems have a single server that contains the versioned files, and some clients to check out files from a central place.</li>
@@ -40,7 +40,7 @@
 </ul>
 <h3>Drawback</h3>
 <h4>Single point of failure.</h4>
-<img src="git-version-control-system.png"  width="500" height="600">
+<img src="git-version-control-system.png"  width="400" height="500">
 
   
   
