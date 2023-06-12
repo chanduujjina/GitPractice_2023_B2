@@ -1,0 +1,18 @@
+
+[appendix]
+[[Common_Docker_Commands]]
+== Basic Git Commands
+
+Here is the list of commonly used Git commands:
+
+[width="100%", options="header"]
+|==================
+S.NO| Purpose| Command
+2+^s| Do Command
+
+1|Intialise empty repository| git int
+
+2+^s| Undo Command
+1|Remove git repository|rm -rf .git
+
+|==================
