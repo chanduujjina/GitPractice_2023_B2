@@ -7,12 +7,16 @@ Here is the list of commonly used Git commands:
 
 [width="100%", options="header"]
 |==================
-S.NO| Purpose| Command
-2+^s| Do Command
+| Purpose| Command
+2+^s| Git Do Commands
 
-1|Intialise empty repository| git int
+|1.To Intailize empty repository| git init
+|2.Create file in git|cat > <fileName>
+|3.Add files to git| git add fileName
 
-2+^s| Undo Command
-1|Remove git repository|rm -rf .git
+2+^s| Git Undo Commands
+|1.To delete repository|rm -rf .git
+|2.To delete file in repository|git rm <fileName>
 
 |==================
+
