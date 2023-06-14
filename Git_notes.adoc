@@ -16,6 +16,8 @@ Here is the list of commonly used Git commands:
 |4.Move all file from unstaged to staged| git add .
 |5.Move file from staged area to commit area|git commit -m"commit message"
 |6.Move file from staged area to unstaged area|git restore --staged fileName
+|7.To check the file status in git(wether in untracked/tracked/commit area)|git status
+|Commit list|git log --oneline
 2+^s| Git Undo Commands
 |1.To delete repository|rm -rf .git
 |2.To delete file in repository|git rm <fileName>
