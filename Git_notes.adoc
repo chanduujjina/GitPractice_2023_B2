@@ -12,11 +12,13 @@ Here is the list of commonly used Git commands:
 
 |1.To Intailize empty repository| git init
 |2.Create file in git|cat > <fileName>
-|3.Add files to git| git add fileName
-
+|3.Move file from unstaged to staged|git add <fileName>
+|4.Move all file from unstaged to staged| git add .
 2+^s| Git Undo Commands
 |1.To delete repository|rm -rf .git
 |2.To delete file in repository|git rm <fileName>
+|3.Move all file from staged to unstaged| git rm --cached <fileName>
+|4.Move all file from staged to unstaged|git rm -r --cached  .
 
 |==================
 
