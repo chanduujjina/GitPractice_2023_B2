@@ -89,5 +89,7 @@
 
 #### Reset hard: 
 #####  If we changed to previous commit head moved to prevoius commit but no matter of index.Changes will be deleted from working directory also.
+<img src="git-reset-tree.jpg" alt="Girl in a jacket">
+
 
 
