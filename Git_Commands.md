@@ -68,3 +68,26 @@
 | `git diff-tree --no-commit-id --name-only -r <sha1-commit-hash>` | Listing files using git diff-tree command|
 | `git diff --name-only <start-commit>..<end-commit>` | To list all the changed files between two commits using diff|
 | `git diff --name-status <start-commit>..<end-commit>` | To find the state of file to include the added, modified or deleted change next to each file |
+
+### Undo Commit from Local and Remote Repository(Git Reset vs Revert vs Checkout)
+
+| Command | SCOPE |Description
+| ------- | ----------- |----------|
+| `git reset` | Commit-level|Discard commits in a private branch or throw away uncommited changes|
+| `git reset` |File-level| Unstage a file|
+| `git checkout` |Commit-level|Switch between branches or inspect old snapshots|
+| `git checkout` |File-level|	Discard changes in the working directory|
+| `git revert` |Commit-level|	Undo commits in a public branch|
+| `git revert` |File-level|		(N/A)|
+
+### Git Reset Commands at commit level
+#### Reset Soft: 
+##### If we changed to previous commit head moved to prevoius commit but index will remains in lastet commit only.That's why chnages will be appear in staged/index araea
+
+#### Reset Mixed: 
+#####  If we changed to previous commit head moved to prevoius commit along with index.That's why changes will be appear in unstaged/working directory
+
+#### Reset hard: 
+#####  If we changed to previous commit head moved to prevoius commit but no matter of index.Changes will be deleted from working directory also.
+
+
