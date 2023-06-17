@@ -1,3 +1,5 @@
+
+
 ### Getting & Creating Projects
 
 | Command | Description |
@@ -56,3 +58,13 @@
 | `git log --summary` | View changes (detailed) |
 | `git log --oneline` | View changes (briefly) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+
+### Listing  Files & and Find the Diffrences b/w Files
+
+| Command | Description |
+| ------- | ----------- |
+| `git show --pretty="" --name-only <sha1-commit-hash>` | Listing files using show|
+| `git diff-tree --no-commit-id --name-only -r <sha1-commit-hash>` | Listing files using git diff-tree command|
+| `git diff --name-only <start-commit>..<end-commit>` | To list all the changed files between two commits using diff|
+| `git diff --name-status <start-commit>..<end-commit>` | To find the state of file to include the added, modified or deleted change next to each file |
