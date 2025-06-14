@@ -1,3 +1,4 @@
+```mermaid
 stateDiagram-v2
     [*] --> Unstaged
 
@@ -21,3 +22,4 @@ stateDiagram-v2
     note right of Commit
       Changes permanently saved to local repo
     end
+```
